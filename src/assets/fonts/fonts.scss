@@ -1,0 +1,91 @@
+@font-face {
+	font-family: 'OperatorMono-Bold';
+	src: url('./OperatorMono-Bold.otf');
+}
+@font-face {
+	font-family: 'OperatorMono-Bold';
+	src: url('./OperatorMono-BoldItalic.otf');
+	font-style: italic;
+}
+@font-face {
+	font-family: 'OperatorMono-Medium';	
+	src: url('./OperatorMono-Medium.otf');
+}
+@font-face {
+	font-family: 'OperatorMono-Medium';	
+	src: url('./OperatorMono-MediumItalic.otf');
+	font-style: italic;
+}
+@font-face {
+	font-family: 'OperatorMono-Light';
+	src: url('./OperatorMono-Light.otf');
+}
+@font-face {
+	font-family: 'OperatorMono';
+	src: url('./OperatorMono-LightItalic.otf');
+	font-style: italic;
+}
+@font-face {
+	font-family: 'OperatorMono-XLight';
+	src: url('./OperatorMono-XLight.otf');
+}
+@font-face {
+	font-family: 'OperatorMono-XLight';
+	src: url('./OperatorMono-XLightItalic.otf');
+	font-style: italic;
+}
+@font-face {
+	font-family: 'OperatorMono-Book';
+	src: url('./OperatorMono-Book.otf');
+}
+@font-face {
+	font-family: 'OperatorMono-Book';
+	src: url('./OperatorMono-BookItalic.otf');
+	font-style: italic;
+}
+
+
+#Bold {
+    font-family: OperatorMono-Bold;
+}
+
+#BoldItalic {
+    font-family: OperatorMono-Bold;
+    font-style: italic;
+}
+
+#Medium {
+    font-family: OperatorMono-Medium;
+}
+
+#MediumItalic {
+    font-family: OperatorMono-Medium;
+    font-style: Italic;
+}
+
+#Light {
+    font-family: OperatorMono-Light;
+}
+
+#LightItalic {
+    font-family: OperatorMono-Light;
+    font-style: Italic;
+}
+
+#XLight {
+    font-family: OperatorMono-XLight;
+}
+
+#XLightItalic {
+    font-family: OperatorMono-XLight;
+    font-style: Italic;
+}
+
+#Book {
+    font-family: OperatorMono-Book;
+}
+
+#BookItalic {
+    font-family: OperatorMono-Book;
+    font-style: Italic;
+}
